@@ -36,7 +36,7 @@ Confusion matrix :
 
 ![untitled1](https://user-images.githubusercontent.com/113347545/196212177-978f4e99-6464-4c6a-a8ee-cd4763f7342b.jpg)
 
-(0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral)
+(0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Neutral, 5=Sad, 6=Surpried)
 # References <a name="5-References"></a>
 [1] <a name="Saudagare"></a>Saudagare, P. V., & Chaudhari, D. S. (n.d.). _International Journal of Soft Computing and engineering ... - citeseerx_. Retrieved September 18, 2022, from https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.683.3991&rep=rep1&type=pdf
 
